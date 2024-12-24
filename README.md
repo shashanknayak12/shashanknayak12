@@ -62,4 +62,4 @@ manufacturing
 ---
 
 
-⭐️ **Thank you for visiting!** If you like what you see, feel free to star some repositories or reach out for collaborations!
+⭐️ **Thank you for visiting!** Feel free to reach out for collaborations!
