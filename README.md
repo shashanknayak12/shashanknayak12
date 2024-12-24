@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer and freelancer
 
 ## 🚀 About Me
 - 🎨 **Frontend Enthusiast:** Skilled in ReactJS, NextJS, Tailwind CSS, and more.
-- 📈 **Freelancer:** Offering web development and design services on platforms like Fiverr and Contra.
+- 📈 **Freelancer:** Offering web development and design services on platforms like Fiverr.
 - 🌟 **Passionate Learner:** Constantly exploring new technologies and best practices.
 - 💻 **Collaborator:** Always open to working on exciting projects.
 
