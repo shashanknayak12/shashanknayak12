@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer and freelancer
 
 ## 🌟 Featured Projects
 
-###  [Stock Market App][https://portal.tradebrains.in/)
+###  [Stock Market App](https://portal.tradebrains.in/)
 Developed platform for investors to do research and analysis of listed companies on the stock
 market
 
