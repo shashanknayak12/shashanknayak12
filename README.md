@@ -46,7 +46,7 @@ market
 ###  [FinGrad](https://joinfingrad.com/)
 Developed an e-learning platform for stock market courses and webinars.
 
-###  [Stelna designs](https://app.stelnadesigns.com/)
+###  [Stelna designs](https://bhuve.com/)
 Built a web application for users to design prototypes using OpenJSCad and submit request for
 manufacturing
 
